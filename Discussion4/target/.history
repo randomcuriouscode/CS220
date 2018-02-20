@@ -1,0 +1,6 @@
+compile
+test
+compile
+:q
+test
+submit

@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Have life expectancies from 1930 -- 2010[0m[0m
+[0m[[0minfo[0m] [0m[32m- birth filter 1880[0m[0m
+[0m[[0minfo[0m] [0m[32m- yearGT(2007) life expectancies[0m[0m
+[0m[[0minfo[0m] [0m[32m- yearLT(2007) life expectancies[0m[0m
+[0m[[0minfo[0m] [0m[32m- onlyName Margaret is 254[0m[0m
+[0m[[0minfo[0m] [0m[32m- mostPopular on simple list is (James,9018)[0m[0m
+[0m[[0minfo[0m] [0m[32m- count on simple list is 9275[0m[0m
+[0m[[0minfo[0m] [0m[32m- countGirlsAndBoys on simple list is (9272,4)[0m[0m
+[0m[[0minfo[0m] [0m[32m- count equals countGirlsAndBoys on ssa-births[0m[0m
+[0m[[0minfo[0m] [0m[32m- unisexnames on simple list is 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- I am expected to be alive 2066, not 2067[0m[0m
+[0m[[0minfo[0m] [0m[32m- estimate popluation works on simple list[0m[0m
+[0m[[0minfo[0m] [0m[32m- compound queries work[0m[0m

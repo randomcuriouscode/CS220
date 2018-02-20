@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- map2 with add works[0m[0m
+[0m[[0minfo[0m] [0m[32m- map2 with sub works[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip works[0m[0m
+[0m[[0minfo[0m] [0m[31m- flatten works *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  List() did not equal List(3, 4) (TestSuite.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatten3 works[0m[0m
+[0m[[0minfo[0m] [0m[32m- buildList works[0m[0m
+[0m[[0minfo[0m] [0m[32m- mapList test[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test other[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 3[0m[0m
